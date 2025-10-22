@@ -1,4 +1,4 @@
-```javascript
+
 import React from 'react';
 
 
@@ -14,7 +14,3 @@ return (
 </div>
 );
 }
-```
-
-
----
