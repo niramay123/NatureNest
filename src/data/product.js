@@ -1,4 +1,4 @@
-```javascript
+
 const PRODUCTS = [
 { id: 'p1', name: 'Snake Plant', price: 499, category: 'Low Light', thumbnail: 'https://i.imgur.com/7bI4Q2k.png' },
 { id: 'p2', name: 'Fiddle Leaf Fig', price: 1499, category: 'Bright Light', thumbnail: 'https://i.imgur.com/3QGQz5K.png' },
@@ -10,7 +10,3 @@ const PRODUCTS = [
 
 
 export default PRODUCTS;
-```
-
-
----
