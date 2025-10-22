@@ -1,4 +1,4 @@
-```json
+
 {
 "name": "naturenest-store",
 "version": "1.0.0",
@@ -18,4 +18,4 @@
 "eject": "react-scripts eject"
 }
 }
-```
+
