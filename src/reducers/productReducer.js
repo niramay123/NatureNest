@@ -1,4 +1,4 @@
-```javascript
+
 import PRODUCTS from '../data/products';
 
 
@@ -13,7 +13,4 @@ default:
 return state;
 }
 }
-```
 
-
----
