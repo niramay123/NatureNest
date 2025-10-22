@@ -1,4 +1,4 @@
-import PRODUCTS from '../data/products';
+import PRODUCTS from 'src/data/products.js';
 
 const initialState = {
   items: PRODUCTS
