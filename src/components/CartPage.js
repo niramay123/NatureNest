@@ -1,4 +1,4 @@
-```javascript
+
 const items = useSelector(s => s.cart.items);
 const dispatch = useDispatch();
 const entries = Object.values(items);
@@ -42,7 +42,3 @@ return (
 </div>
 );
 }
-```
-
-
----
