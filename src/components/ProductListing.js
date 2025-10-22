@@ -1,4 +1,4 @@
-```javascript
+
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import ProductCard from './ProductCard';
@@ -37,7 +37,4 @@ disabled={!!cartItems[p.id]}
 </div>
 );
 }
-```
 
-
----
